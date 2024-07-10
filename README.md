@@ -1,16 +1,23 @@
-# caculator
+# Calculator
+This is a Calculator Mobile Application. This Application is developed by using Flutter and Dart Programming. This Application supports both Android and IOS Mobiles. 
 
-A new Flutter project.
+# 📷Screenshots
+![ic](https://github.com/Naveen-Chandrasekaran/CalculatorApp/assets/114243437/8cb1d6ce-9379-4f7d-8459-278715719a6d)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 📝Features
+▷ This is a Calculator Mobile Application.
+▷ Users can perform basic arithmetic operations such as addition, subtraction, division, multiplication, and modulus.
+▷ Users can click the "=" button to view the result.
+▷ Users can click the "<-" button to delete the last digit and make changes as needed.
+▷ Users can click the "C" button to clear the current operation and perform other calculations.
+▷ Users can click the "." button to work with decimal values.
 
-A few resources to get you started if this is your first Flutter project:
+# 💻Technology used
+Flutter
+Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# IDLE used
+![android-studio-logo](https://github.com/Naveen-Chandrasekaran/QuizApp/assets/114243437/b3877bfd-91af-4b2e-95d7-5b0256a234f6)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
